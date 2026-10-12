@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:package_frogport"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:packager"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cardboard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_vibrant_vaults:basic_shipping_container"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:experience_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcobblestone:mechanical_generator","components":{"minecraft:block_entity_data":{"id":"createcobblestone:mechanical_generator","type":"none"}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,50 @@
+/gamerule doShinyStarters true
+/chunky pause
+/chunky continue
+/voxy import world "Create x Pokemon/"
+/chunky status
+/chunky progress
+/voxy reload
+/voxy import world "Create x Pokemon"
+/csa glow 2d0a1d64-bcb0-4c5d-bd78-9fd551899187
+/gamerule doShinyStarters true
+/csa glow 9be1fc80-7d03-4fd1-9780-350be44fea03
+/gamemode spectator
+/gamemode creative
+/gamerule mobGriefing true
+/tp DrtyWog DirtyRainbowMan
+/csa glow 78f46050-6039-4e67-ad1e-96c2af2cb98f
+/csa glow 7fa7b44d-1895-4a16-a429-329678cc4473
+/gamerule keepInventory true
+/gamerule doFireTick false
+/csa glow e32ed690-f84e-4594-bf3e-455f6182ca74
+/csa glow 96bc7e00-10e6-42b5-9d4e-9e783ab821ef
+/tp DIRTYTEDDYMAN DirtyRainbowMan
+/csa glow 28fd14b9-cf7a-4e1b-8f1a-2d4921e0a100
+/csa glow 61fd3f7c-06ed-4bd0-b3d2-8a1859ec8937
+/csa glow 611c2d78-5acd-444f-a934-9659badecd9d
+/csa glow 29bbec2a-367d-45b9-97f2-97e0b1b77b23
+/csa glow 5c405b1e-b471-4ace-8268-5c398e60eec4
+/seed
+/gamerule doShinyStarters true
+/op DrtyWog
+/gamerule doShinyStarters true
+/tp DrtyWog DirtyRainbowMan
+/tp Artyk97 DirtyRainbowMan
+/tp Sheppii DirtyRainbowMan
+/tp Artyk97 DirtyRainbowMan
+/tp DrtyWog DirtyRainbowMan
+/tp Artyk97 DirtyRainbowMan
+/gamerule mobGriefing false
+/csa glow db6a8bd9-f3d1-4dc2-8df1-7ce8fede9bf8
+/tp Sheppii DirtyRainbowMan
+/gamerule doFireTick false
+/gamerule keepInventory true
+/csa glow 82a81fd8-ce33-4abf-a6b2-e8fccd415b5a
+/voxy import
+/voxy import current
+/csa glow 1cec2ab9-ca44-4dda-8365-3cc64bd59183
+/op DirtyRainbowMan
+/lsslod diagnostics
+/lsslod help
+/tp DrtyWog DirtyRainbowMan

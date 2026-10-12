@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_aeronautics_toolgun:portable_structure_container"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_aeronautics_toolgun:magnetic_gun"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_aeronautics_toolgun:creative_magnetic_gun"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_aeronautics_toolgun:structure_tool"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_aeronautics_toolgun:survival_structure_tool"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
